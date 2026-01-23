@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Jan 👋
 
-<!--
-**janvdl/janvdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer and technical leader with experience across **backend systems, data platforms, and developer tooling**. My work focuses on building **reliable, maintainable software** and modernising legacy workflows without unnecessary complexity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+
+**Languages**
+SAS · R · Python · SQL · C# · Shell
+Go · JavaScript · Swift (familiar)
+
+**Frameworks & tools**
+ASP.NET · FastAPI · Gin · Shiny · Redis
+Git · Azure DevOps · SVN · Palantir Foundry
+
+**Practices**
+API design · automation · testing & validation · code review
+platform standardisation · technical mentorship
+
+---
+
+## Focus areas
+
+* Backend and tooling development (Go / Python)
+* Automation and data-heavy utilities
+* Improving developer workflows and platform reliability
+
+Most repositories here are small, practical projects or focused experiments rather than polished products.
+
+---
+
+## Contact
+
+* GitHub: [https://github.com/janvdl](https://github.com/janvdl)
+* Email: [jvdl@jvdl.me](mailto:jvdl@jvdl.me)
