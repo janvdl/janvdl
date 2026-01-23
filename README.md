@@ -34,3 +34,4 @@ Most repositories here are small, practical projects or focused experiments rath
 
 * GitHub: [https://github.com/janvdl](https://github.com/janvdl)
 * Email: [jvdl@jvdl.me](mailto:jvdl@jvdl.me)
+* BlueSky: [@jvdl.me](https://bsky.app/profile/jvdl.me)
