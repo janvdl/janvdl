@@ -7,16 +7,13 @@ I'm a software engineer and technical leader with experience across **backend sy
 ## 🛠️ Tech
 
 **Languages**
-SAS · R · Python · SQL · C# · Shell
-Go · JavaScript · Swift (familiar)
+SAS · R · Python · SQL · C# · Shell · Go · JavaScript · Swift (familiar)
 
 **Frameworks & tools**
-ASP.NET · FastAPI · Gin · Shiny · Redis
-Git · Azure DevOps · SVN · Palantir Foundry
+ASP.NET · FastAPI · Gin · Shiny · Redis · Git · Azure DevOps · SVN · Palantir Foundry
 
 **Practices**
-API design · automation · testing & validation · code review
-platform standardisation · technical mentorship
+API design · automation · testing & validation · code review · platform standardisation · technical mentorship
 
 ---
 
