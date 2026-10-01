@@ -1,27 +1,24 @@
 # Hi, I'm Jan 👋
 
-I'm a software engineer and technical leader with experience across **backend systems, data platforms, and developer tooling**. My work focuses on building **reliable, maintainable software** and modernising legacy workflows without unnecessary complexity.
+I'm a software engineer with a background in statistical computing (SAS/R) and Python as my strongest language, with Go as a close second for smaller tools. I like writing small, self-contained tools — dataset readers, terminal viewers, trackers — and I still enjoy poking at the graph algorithms from my M.Sc., which is why a few Tarjan/Tiernan implementations keep showing up in my repos.
 
 ---
 
 ## 🛠️ Tech
 
 **Languages**
-SAS · R · Python · SQL · C# · Shell · Go · JavaScript · Swift (familiar)
+Python · Go · SAS · R · SQL · C# · Shell · JavaScript · Swift (familiar)
 
 **Frameworks & tools**
-ASP.NET · FastAPI · Gin · Shiny · Redis · Git · Azure DevOps · SVN · Palantir Foundry
-
-**Practices**
-API design · automation · testing & validation · code review · platform standardisation · technical mentorship
+Gin · FastAPI · Redis · ASP.NET · Shiny · Git · Azure DevOps · Palantir Foundry
 
 ---
 
 ## Focus areas
 
-* Backend and tooling development (Go / Python)
-* Automation and data-heavy utilities
-* Improving developer workflows and platform reliability
+* Small, practical Python/Go tools over large frameworks
+* Working with datasets and the formats around them (SAS XPT, tabular data, exports)
+* Graph algorithms, as a long-running hobby from my M.Sc. days
 
 Most repositories here are small, practical projects or focused experiments rather than polished products.
 
